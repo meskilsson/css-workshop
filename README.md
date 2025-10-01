@@ -25,4 +25,4 @@ Projektet genomfördes som en del av kursmoment för att öva på semantisk HTML
 ## GitHub-repo:
 https://github.com/meskilsson/css-workshop
 
-![Red Badge](https://img.shields.io/badge/Status-Error-red)  
+<img src="https://via.placeholder.com/15/00ff00/000000?text=+" width="15" height="15" /> Green
