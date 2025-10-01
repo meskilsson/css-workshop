@@ -24,3 +24,5 @@ Projektet genomfördes som en del av kursmoment för att öva på semantisk HTML
 
 ## GitHub-repo:
 https://github.com/meskilsson/css-workshop
+
+![Red Badge](https://img.shields.io/badge/Status-Error-red)  
